@@ -35,7 +35,10 @@ git clone https://github.com/andresriancho/w3af.git
 ```
 
 *Lưu ý:*
-Để cài đặt các dependencies máy cần cài: 
+
+- Để tạo ra file ``/tmp/w3af_dependency_install.sh`` vào thư mục w3af và chạy lệnh: `` python2.7 ./w3af_console ``
+
+- Để cài đặt các dependencies máy cần cài: 
 
 ```
 apt install npm
